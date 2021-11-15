@@ -1,0 +1,1 @@
+#create protos: this comand inside the container(change word chat for var inside comand)  protoc --go_out=plugins=grpc.chat chat.proto
